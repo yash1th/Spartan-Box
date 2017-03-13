@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/newone"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.kirandama.spartanbox.activities.AccountActivity"
+    android:gravity="center_horizontal">
+
+
+
+    <TextView
+        android:id="@+id/user_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textColor="#FDF5D6"
+        android:typeface="monospace"
+        android:text="@string/user_title"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="normal|bold|italic"
+        android:gravity="center" />
+
+    <ImageView
+        android:id="@+id/profile"
+        android:layout_marginTop="10dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:src="@drawable/profile" />
+
+    <TextView
+        android:id="@+id/name_text"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:textColor="#FDF5D6"
+        android:gravity="center"
+        android:typeface="monospace"
+        android:textSize="22sp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <TextView
+        android:id="@+id/email_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FDF5D6"
+        android:typeface="monospace"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+    <TextView
+        android:id="@+id/country"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FDF5D6"
+        android:typeface="monospace"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <TextView
+        android:id="@+id/locale"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FDF5D6"
+        android:gravity="center"
+        android:typeface="monospace"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/stats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FDF5D6"
+        android:typeface="monospace"
+        android:layout_marginTop="15dp"
+        android:text="@string/stats"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="normal|bold|italic"
+        android:gravity="left" />
+
+
+    <TextView
+        android:id="@+id/usedSpace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FDF5D6"
+        android:typeface="monospace"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <TextView
+        android:id="@+id/totalSpace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FDF5D6"
+        android:gravity="center"
+        android:typeface="monospace"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <TextView
+        android:id="@+id/freeSpace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FDF5D6"
+        android:gravity="center"
+        android:typeface="monospace"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>

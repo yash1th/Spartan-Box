@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="2dp"
+    >
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="40sp"
+        android:layout_height="40sp"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        />
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@id/checkBox"
+        />
+
+    <TextView android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="name goes here"
+        android:layout_toRightOf="@+id/icon"
+        android:layout_alignParentTop="true"
+        android:layout_alignTop="@+id/icon"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        />
+
+    <TextView android:id="@+id/modified"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="modified goes here"
+        android:layout_alignParentBottom="true"
+        android:textSize="15sp"
+        android:textColor="@android:color/darker_gray"
+        android:layout_below="@+id/title"
+        android:layout_alignLeft="@+id/title"
+        android:layout_marginLeft="10dp"
+        android:gravity="left"
+        android:textAlignment="gravity" />
+
+    <TextView android:id="@+id/size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="file size"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:textSize="15sp"
+        android:layout_marginEnd="10dp"
+        android:layout_below="@+id/title"
+        android:layout_toRightOf="@+id/modified"
+        android:layout_marginLeft="10dp"
+        android:textAlignment="gravity"
+        android:gravity="right" />
+
+</RelativeLayout>

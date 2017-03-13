@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kiran/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.3.0/8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c/bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.3.0-80b646057e1719d42a05cf5b0652160716e7d2aa.jar" />
+    </item>
+    <item
+        jar="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/pre-dexed/debug/classes-ff235c349d4cd2f0d11e1d16afad0ee61702c255.jar" />
+    </item>
+    <item
+        jar="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-2e5471a8f98d306c718a662d1d38a135a3cf40ab.jar" />
+    </item>
+    <item
+        jar="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/pre-dexed/debug/classes-f09b70e1387edb0b14fc45809bfb3c2607930783.jar" />
+    </item>
+    <item
+        jar="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/pre-dexed/debug/classes-cd82f10ed5a1618974ec6ab54052ddb0ae2ebaf4.jar" />
+    </item>
+    <item
+        jar="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/pre-dexed/debug/classes-a736b50237a473860ac57b1261c73b797d832e1d.jar" />
+    </item>
+    <item
+        jar="/Users/kiran/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.3.0/bc535105332645408ef5f1380215cc954b842178/bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.3.0-0b2e40b925b59ad36ebead58d61f6b2c7eaad07d.jar" />
+    </item>
+    <item
+        jar="/Users/kiran/Desktop/spartanbox2/app/libs/dropbox-android-sdk-1.6.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
+        <dex dex="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/pre-dexed/debug/dropbox-android-sdk-1.6.3-fc4e236ba3197950656f1fcb85e2f5df50b6e49b.jar" />
+    </item>
+    <item
+        jar="/Users/kiran/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-97101b9182a8c462255762f50f89d6c4fe64b6f9.jar" />
+    </item>
+    <item
+        jar="/Users/kiran/Desktop/spartanbox2/app/libs/json_simple-1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/pre-dexed/debug/json_simple-1.1-4e4efc38311e6fe98b8f3cd7ef5c53edc03941f4.jar" />
+    </item>
+    <item
+        jar="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/pre-dexed/debug/classes-4bbdbcb7732cb5ebd53bbf85a4da1f6446ff36f9.jar" />
+    </item>
+    <item
+        jar="/Users/kiran/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.11.0/6592129dec2caa8791d322c7e4b6b7a30e8eadae/parse-android-1.11.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6592129dec2caa8791d322c7e4b6b7a30e8eadae">
+        <dex dex="/Users/kiran/Desktop/spartanbox2/app/build/intermediates/pre-dexed/debug/parse-android-1.11.0-726a620ef0f38b47f91f7122fe9e160d0efbf325.jar" />
+    </item>
+
+</items>

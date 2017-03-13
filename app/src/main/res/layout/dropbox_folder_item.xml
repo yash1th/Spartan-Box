@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <CheckBox
+        android:id="@+id/select_folder_checkBox"
+        android:layout_width="40sp"
+        android:layout_height="40sp"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        />
+
+    <ImageView
+        android:id="@+id/select_folder_icon"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@id/select_folder_checkBox"
+        />
+
+    <TextView android:id="@+id/select_folder_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="name goes here"
+        android:layout_toRightOf="@+id/select_folder_icon"
+        android:layout_alignParentTop="true"
+        android:layout_alignTop="@+id/select_folder_icon"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_blue_dark"
+        />
+
+</RelativeLayout>

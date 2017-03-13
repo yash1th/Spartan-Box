@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_delete"
+        android:icon="@drawable/delete"
+        yourapp:showAsAction="always"
+        android:titleCondensed="Delete"
+        android:title="Delete">
+    </item>
+
+    <item
+        android:id="@+id/item_share"
+        android:icon="@drawable/share"
+        yourapp:showAsAction="always"
+        android:titleCondensed="Share"
+        android:title="Share">
+    </item>
+
+    <item
+        android:id="@+id/item_download"
+        android:icon="@drawable/download"
+        yourapp:showAsAction="always"
+        android:titleCondensed="Download"
+        android:title="Download">
+    </item>
+
+
+</menu>
